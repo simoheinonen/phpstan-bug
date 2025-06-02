@@ -24,7 +24,7 @@
         "symfony/flex": "^2.7.1",
         "symfony/framework-bundle": "^7.3",
         "symfony/property-access": "^7.3",
-        "symfony/property-info": "7.2.*",
+        "symfony/property-info": "7.3.0-BETA1",
         "symfony/runtime": "^7.3",
         "symfony/security-bundle": "^7.3",
         "symfony/serializer": "^7.3",
