@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "848208f03f71886856c4ad3ea9489342",
+    "content-hash": "1a7d734d0978703b177eed65444cf848",
     "packages": [
         {
             "name": "api-platform/doctrine-common",
@@ -5349,7 +5349,7 @@
         },
         {
             "name": "symfony/property-info",
-            "version": "v7.3.0",
+            "version": "v7.3.0-BETA1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/property-info.git",
@@ -5415,7 +5415,7 @@
                 "validator"
             ],
             "support": {
-                "source": "https://github.com/symfony/property-info/tree/v7.3.0"
+                "source": "https://github.com/symfony/property-info/tree/v7.3.0-BETA1"
             },
             "funding": [
                 {
@@ -7311,7 +7311,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {},
+    "stability-flags": {
+        "symfony/property-info": 10
+    },
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
